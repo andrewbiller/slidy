@@ -323,7 +323,7 @@ slidy g mm nome_da_pasta/modelo
 Gere **testes de unidade** na pasta de teste para você.
 
 ```bash
-slidy test nome_da_pasta/
+slidy g t nome_da_pasta/
 ```
 
 ## Automação de Tradução - Localização
